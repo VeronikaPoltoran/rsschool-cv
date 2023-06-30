@@ -1,4 +1,4 @@
-#Veronica Poltoran
+#Veronika Poltoran
 ___
 ####Contacts:
 - **Location:** Gomel, Belarus
