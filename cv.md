@@ -6,3 +6,6 @@ ___
 - **e-mail:** drpepper0510@gmail.com
 - **Telegram:** @Sky_swallow_viva
 - **Nickname on the discord server rs school:** Veronika(@VeronikaPoltoran)
+___
+####About Me:
+I have no experience in programming, but I came to you to learn. I want to take your course and understand for myself how everything works in order to choose the right direction.
