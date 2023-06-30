@@ -12,3 +12,10 @@ I have no experience in programming, but I came to you to learn. I want to take 
 ___
 ####Skills: 
 There is not.
+___
+####Code example:
+```
+function multiply(a, b){
+  return a * b
+}
+```
