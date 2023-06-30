@@ -22,3 +22,6 @@ function multiply(a, b){
 ___
 ####Experience:
 [CV](https://veronikapoltoran.github.io/rsschool-cv/)
+___
+####Education:
+There is not.
