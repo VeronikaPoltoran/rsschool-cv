@@ -37,12 +37,18 @@ body {
   width: 50%;
 }
 
+.section-profile {
+  display: flex;
+  gap: 20px;
+}
+
 .photo {
   width: 200px;
   height: 200px;
   border-radius: 50%;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
   transition: 0.3s;
+  object-fit: cover;
 }
 
 @media (max-width: 768px) {
