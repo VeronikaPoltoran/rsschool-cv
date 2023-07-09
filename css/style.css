@@ -36,6 +36,15 @@ body {
 .section {
   width: 50%;
 }
+
+.photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+  transition: 0.3s;
+}
+
 @media (max-width: 768px) {
   .section {
     width: 100%;
